@@ -159,4 +159,8 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+    
+    .curriculo{
+        flex-direction: column-reverse;
+    }
 }
